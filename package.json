@@ -1,0 +1,22 @@
+{
+  "name": "queuer",
+  "version": "1.0.0",
+  "description": "A simple function queuing library",
+  "main": "queuer.js",
+  "scripts": {
+    "test": "node test/test-queuer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/queuer.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/queuer/issues"
+  },
+  "homepage": "https://github.com/No9/queuer#readme"
+}
