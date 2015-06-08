@@ -4,14 +4,14 @@ A simple function queuing library taken from [this stackoverflow question](http:
 ## install 
 
 ``` sh
-$ npm instal queuer
+$ npm install queuer
 ```
 
 ## usage 
 
 ```js
 var assert = require('assert')
-var Queuer = require('../queuer')
+var Queuer = require('queuer')
 
 var qr = new Queuer()
 
